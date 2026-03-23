@@ -11,6 +11,10 @@
     {
       "name": "Harold Strosin",
       "id": 4
+    },
+    {
+      "name": "Loren Keeling",
+      "id": 5
     }
   ],
   "albums": [
@@ -43,6 +47,21 @@
       "userId": 3,
       "title": "Sleek Bronze Hat",
       "id": 15
+    },
+    {
+      "userId": 4,
+      "title": "Unbranded Frozen Keyboard",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Cotton Cheese",
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "title": "Refined Cotton Bike",
+      "id": 18
     }
   ],
   "photos": []
