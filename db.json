@@ -57,11 +57,6 @@
       "userId": 3,
       "title": "Licensed Cotton Cheese",
       "id": 17
-    },
-    {
-      "userId": 5,
-      "title": "Refined Cotton Bike",
-      "id": 18
     }
   ],
   "photos": [
@@ -79,6 +74,16 @@
       "albumId": 10,
       "url": "https://loremflickr.com/150/150/abstract?lock=88755",
       "id": 3
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=88276",
+      "id": 4
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1394",
+      "id": 5
     }
   ]
 }
